@@ -1,5 +1,12 @@
-### Hi there 👋
+### I'm not using GitHub anymore!
 
+I do not use GitHub anymore. 2-Factor Authentication may be good and all, but forcing it on users is an absolutely surefire way to turn potential and existing customers away. Rot to hell for this decision, *GitHub Incorporated.*
+
+If you need to reach me for any reason, feel free to contact me through these:
+
+  - GitLab as `UnderSet` (same as this account)
+  - Discord as ***NoTrackpads*** (`notrackpads`)
+  - You can also email me at `lamhung00721@gmail.com`, though be warned: I don't check my email(s) often.
 <!--
 **UnderSet/underset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
